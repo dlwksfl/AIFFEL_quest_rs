@@ -1,7 +1,7 @@
 # MainQuest - Quest03
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 나영진
-- 리뷰어 : 이지안
+- 코더 : 이지안
+- 리뷰어 : 나영진
 
 
 # PRT(Peer Review Template)
