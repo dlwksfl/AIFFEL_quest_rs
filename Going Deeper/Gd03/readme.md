@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d0cfa765-5348-4d77-ac63-c1e892eab675)# AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 이지안
 - 리뷰어 : 염철헌
 
