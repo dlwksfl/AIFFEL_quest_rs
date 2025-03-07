@@ -1,7 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 이지
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
-
+- 코더 : 이지안
+- 리뷰어 : 정다운
 
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
